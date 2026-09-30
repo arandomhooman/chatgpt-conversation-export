@@ -2,14 +2,14 @@
 
 Download the full saved conversation from **chatgpt.com** as HTML or JSON. An **Export** button sits in the top bar, with a switch to include available reasoning and tool activity. Long chats export without scrolling through every message.
 
-[Install in Tampermonkey](https://raw.githubusercontent.com/arandomhooman/chatgpt-conversation-export/main/chatgpt-export.user.js)
+[Install in Tampermonkey from Greasy Fork](https://greasyfork.org/en/scripts/598032-chatgpt-conversation-export)
 
 ![Export menu shown in a synthetic conversation](docs/export-menu.png)
 
 ## Install and use
 
 1. Install [Tampermonkey](https://www.tampermonkey.net/) in your browser.
-2. Open the install link above and confirm the userscript installation.
+2. Open the install link above, click **Install this script**, and confirm the userscript installation.
 3. Reload a saved chat on `chatgpt.com`.
 4. Click **Export**, choose whether to **Include reasoning & tools**, then choose **HTML** or **JSON**.
 
