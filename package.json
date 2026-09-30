@@ -1,0 +1,13 @@
+{
+  "name": "chatgpt-conversation-export",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Export full saved ChatGPT conversations as HTML or JSON.",
+  "license": "MIT",
+  "scripts": {
+    "test": "node --check chatgpt-export.user.js && node tests/core.cjs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
